@@ -1,0 +1,4 @@
+path+=$HOME/local/bin
+path+=$HOME/local/usr/bin
+path+=$HOME/local/opt/bin
+
